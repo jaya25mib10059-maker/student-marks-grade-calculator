@@ -1,0 +1,2 @@
+%%writefile requirements.txt
+Writing requirements.txt
